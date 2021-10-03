@@ -1,0 +1,350 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<array>
+	<array>
+		<dict>
+			<key>type</key>
+			<string>Connection Center</string>
+			<key>name</key>
+			<string>Airplane Mode</string>
+			<key>icon</key>
+			<string>airplane</string>
+			<key>textLabel</key>
+			<string></string>
+			<key>switcher</key>
+			<true/>
+			<key>disclosureIndicator</key>
+			<false/>
+		</dict>
+		<dict>
+			<key>type</key>
+			<string>Connection Center</string>
+			<key>name</key>
+			<string>Wi-Fi</string>
+			<key>icon</key>
+			<string>wifi</string>
+			<key>textLabel</key>
+			<string>MC Donalds</string>
+			<key>switcher</key>
+			<false/>
+			<key>disclosureIndicator</key>
+			<true/>
+		</dict>
+		<dict>
+			<key>type</key>
+			<string>Connection Center</string>
+			<key>name</key>
+			<string>Bluetooth</string>
+			<key>icon</key>
+			<string>dot.radiowaves.left.and.right</string>
+			<key>textLabel</key>
+			<string></string>
+			<key>switcher</key>
+			<true/>
+			<key>disclosureIndicator</key>
+			<false/>
+		</dict>
+		<dict>
+			<key>type</key>
+			<string>Connection Center</string>
+			<key>name</key>
+			<string>Mobile Data</string>
+			<key>icon</key>
+			<string>antenna.radiowaves.left.and.right</string>
+			<key>textLabel</key>
+			<string></string>
+			<key>switcher</key>
+			<false/>
+			<key>disclosureIndicator</key>
+			<true/>
+		</dict>
+		<dict>
+			<key>type</key>
+			<string>Connection Center</string>
+			<key>name</key>
+			<string>Personal Hotspot</string>
+			<key>icon</key>
+			<string>link.circle</string>
+			<key>textLabel</key>
+			<string></string>
+			<key>switcher</key>
+			<false/>
+			<key>disclosureIndicator</key>
+			<true/>
+		</dict>
+		<dict>
+			<key>type</key>
+			<string>Connection Center</string>
+			<key>name</key>
+			<string>VPN</string>
+			<key>icon</key>
+			<string>network</string>
+			<key>textLabel</key>
+			<string></string>
+			<key>switcher</key>
+			<false/>
+			<key>disclosureIndicator</key>
+			<true/>
+		</dict>
+	</array>
+	<array>
+		<dict>
+			<key>type</key>
+			<string>Notification Center</string>
+			<key>name</key>
+			<string>Notifications</string>
+			<key>icon</key>
+			<string>circle.fill.square.fill</string>
+			<key>textLabel</key>
+			<string></string>
+			<key>switcher</key>
+			<false/>
+			<key>disclosureIndicator</key>
+			<true/>
+		</dict>
+		<dict>
+			<key>type</key>
+			<string>Notification Center</string>
+			<key>name</key>
+			<string>Sounds &amp; Haptics</string>
+			<key>icon</key>
+			<string>speaker.wave.2.circle</string>
+			<key>textLabel</key>
+			<string></string>
+			<key>switcher</key>
+			<false/>
+			<key>disclosureIndicator</key>
+			<true/>
+		</dict>
+		<dict>
+			<key>type</key>
+			<string>Notification Center</string>
+			<key>name</key>
+			<string>Do Not Disturb</string>
+			<key>icon</key>
+			<string>bell.slash.circle</string>
+			<key>textLabel</key>
+			<string></string>
+			<key>switcher</key>
+			<true/>
+			<key>disclosureIndicator</key>
+			<false/>
+		</dict>
+		<dict>
+			<key>type</key>
+			<string>Notification Center</string>
+			<key>name</key>
+			<string>Screen Time</string>
+			<key>icon</key>
+			<string>timer</string>
+			<key>textLabel</key>
+			<string></string>
+			<key>switcher</key>
+			<true/>
+			<key>disclosureIndicator</key>
+			<false/>
+		</dict>
+	</array>
+	<array>
+		<dict>
+			<key>type</key>
+			<string>General Settings Center</string>
+			<key>name</key>
+			<string>General</string>
+			<key>icon</key>
+			<string>gearshape.fill</string>
+			<key>textLabel</key>
+			<string></string>
+			<key>switcher</key>
+			<false/>
+			<key>disclosureIndicator</key>
+			<true/>
+		</dict>
+		<dict>
+			<key>type</key>
+			<string>General Settings Center</string>
+			<key>name</key>
+			<string>Control Centre</string>
+			<key>icon</key>
+			<string>switch.2</string>
+			<key>textLabel</key>
+			<string></string>
+			<key>switcher</key>
+			<false/>
+			<key>disclosureIndicator</key>
+			<true/>
+		</dict>
+		<dict>
+			<key>type</key>
+			<string>General Settings Center</string>
+			<key>name</key>
+			<string>Display &amp; Brightness</string>
+			<key>icon</key>
+			<string>light.max</string>
+			<key>textLabel</key>
+			<string></string>
+			<key>switcher</key>
+			<false/>
+			<key>disclosureIndicator</key>
+			<true/>
+		</dict>
+		<dict>
+			<key>type</key>
+			<string>General Settings Center</string>
+			<key>name</key>
+			<string>Home Screen</string>
+			<key>icon</key>
+			<string>candybarphone</string>
+			<key>textLabel</key>
+			<string></string>
+			<key>switcher</key>
+			<false/>
+			<key>disclosureIndicator</key>
+			<true/>
+		</dict>
+		<dict>
+			<key>type</key>
+			<string>General Settings Center</string>
+			<key>name</key>
+			<string>Accessibility</string>
+			<key>icon</key>
+			<string>person.fill</string>
+			<key>textLabel</key>
+			<string></string>
+			<key>switcher</key>
+			<false/>
+			<key>disclosureIndicator</key>
+			<true/>
+		</dict>
+		<dict>
+			<key>type</key>
+			<string>General Settings Center</string>
+			<key>name</key>
+			<string>Wallpaper</string>
+			<key>icon</key>
+			<string>wand.and.stars</string>
+			<key>textLabel</key>
+			<string></string>
+			<key>switcher</key>
+			<false/>
+			<key>disclosureIndicator</key>
+			<true/>
+		</dict>
+		<dict>
+			<key>type</key>
+			<string>General Settings Center</string>
+			<key>name</key>
+			<string>Siri &amp; Search</string>
+			<key>icon</key>
+			<string>magnifyingglass</string>
+			<key>textLabel</key>
+			<string></string>
+			<key>switcher</key>
+			<false/>
+			<key>disclosureIndicator</key>
+			<true/>
+		</dict>
+		<dict>
+			<key>type</key>
+			<string>General Settings Center</string>
+			<key>name</key>
+			<string>Touch ID &amp; Passcode</string>
+			<key>icon</key>
+			<string>touchid</string>
+			<key>textLabel</key>
+			<string></string>
+			<key>switcher</key>
+			<false/>
+			<key>disclosureIndicator</key>
+			<true/>
+		</dict>
+		<dict>
+			<key>type</key>
+			<string>General Settings Center</string>
+			<key>name</key>
+			<string>Emergency SOS</string>
+			<key>icon</key>
+			<string>exclamationmark.circle.fill</string>
+			<key>textLabel</key>
+			<string></string>
+			<key>switcher</key>
+			<false/>
+			<key>disclosureIndicator</key>
+			<true/>
+		</dict>
+		<dict>
+			<key>type</key>
+			<string>General Settings Center</string>
+			<key>name</key>
+			<string>Exposure Notifications</string>
+			<key>icon</key>
+			<string>record.circle.fill</string>
+			<key>textLabel</key>
+			<string></string>
+			<key>switcher</key>
+			<false/>
+			<key>disclosureIndicator</key>
+			<true/>
+		</dict>
+		<dict>
+			<key>type</key>
+			<string>General Settings Center</string>
+			<key>name</key>
+			<string>Battery</string>
+			<key>icon</key>
+			<string>battery.100</string>
+			<key>textLabel</key>
+			<string></string>
+			<key>switcher</key>
+			<false/>
+			<key>disclosureIndicator</key>
+			<true/>
+		</dict>
+		<dict>
+			<key>type</key>
+			<string>General Settings Center</string>
+			<key>name</key>
+			<string>Privacy</string>
+			<key>icon</key>
+			<string>hand.raised</string>
+			<key>textLabel</key>
+			<string></string>
+			<key>switcher</key>
+			<false/>
+			<key>disclosureIndicator</key>
+			<true/>
+		</dict>
+	</array>
+	<array>
+		<dict>
+			<key>type</key>
+			<string>Purchase Center</string>
+			<key>name</key>
+			<string>App Store</string>
+			<key>icon</key>
+			<string>cart.circle.fill</string>
+			<key>textLabel</key>
+			<string></string>
+			<key>switcher</key>
+			<false/>
+			<key>disclosureIndicator</key>
+			<true/>
+		</dict>
+		<dict>
+			<key>type</key>
+			<string>Purchase Center</string>
+			<key>name</key>
+			<string>Wallet &amp; Apple Pay</string>
+			<key>icon</key>
+			<string>wallet.pass</string>
+			<key>textLabel</key>
+			<string></string>
+			<key>switcher</key>
+			<false/>
+			<key>disclosureIndicator</key>
+			<true/>
+		</dict>
+	</array>
+</array>
+</plist>

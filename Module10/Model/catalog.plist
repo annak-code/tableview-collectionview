@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<array>
+	<dict>
+		<key>identifier</key>
+		<integer>1</integer>
+		<key>name</key>
+		<string>Knee Shorts</string>
+		<key>imageName</key>
+		<string>knee-shorts-clothes</string>
+		<key>price</key>
+		<integer>2000</integer>
+		<key>promoprice</key>
+		<integer>1450</integer>
+	</dict>
+	<dict>
+		<key>identifier</key>
+		<integer>2</integer>
+		<key>name</key>
+		<string>Off the Shoulder Dress</string>
+		<key>imageName</key>
+		<string>offtheshoulder-dress-clothes</string>
+		<key>price</key>
+		<integer>3490</integer>
+		<key>promoprice</key>
+		<integer>1560</integer>
+	</dict>
+	<dict>
+		<key>identifier</key>
+		<integer>3</integer>
+		<key>name</key>
+		<string>Sleeve Top</string>
+		<key>imageName</key>
+		<string>sleevetop-clothes</string>
+		<key>price</key>
+		<integer>4758</integer>
+		<key>promoprice</key>
+		<integer>3490</integer>
+	</dict>
+	<dict>
+		<key>identifier</key>
+		<integer>4</integer>
+		<key>name</key>
+		<string>Square Neck Dress</string>
+		<key>imageName</key>
+		<string>squareneck-dress-clothes</string>
+		<key>price</key>
+		<integer>3450</integer>
+		<key>promoprice</key>
+		<integer>3400</integer>
+	</dict>
+	<dict>
+		<key>identifier</key>
+		<integer>5</integer>
+		<key>name</key>
+		<string>Swing Dress</string>
+		<key>imageName</key>
+		<string>swingdress-clothes</string>
+		<key>price</key>
+		<integer>5450</integer>
+		<key>promoprice</key>
+		<integer>3440</integer>
+	</dict>
+	<dict>
+		<key>identifier</key>
+		<integer>6</integer>
+		<key>name</key>
+		<string>T-Shirt Dress</string>
+		<key>imageName</key>
+		<string>tshirt-dress-clothes</string>
+		<key>price</key>
+		<integer>1120</integer>
+		<key>promoprice</key>
+		<integer>540</integer>
+	</dict>
+</array>
+</plist>
